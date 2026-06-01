@@ -51,8 +51,7 @@ AutoML-Experiment-Lab/
 │   ├── sample_classification.csv
 │   └── sample_regression.csv
 ├── outputs/
-│   ├── best_model.joblib
-│   └── model_metadata.json
+│   └── .gitkeep
 └── src/
     ├── data_utils.py
     ├── evaluation.py
@@ -123,18 +122,6 @@ streamlit run app.py
 - Quickly test whether a CSV dataset is better suited for classification or regression.
 - Build a portfolio demo showing practical scikit-learn pipeline usage.
 - Generate a simple experiment report for a machine learning notebook or project write-up.
-
-## Screenshots
-
-Add screenshots of the running Streamlit app here after testing locally.
-
-Suggested screenshots:
-
-- Dataset Overview
-- Feature Detection
-- Model Leaderboard
-- Best Model Details
-- Single Row Prediction
 
 ## What I Learned
 
