@@ -42,7 +42,7 @@ The goal is to make machine learning experimentation easier for beginners while 
 ## Project Structure
 
 ```text
-AutoML-Experiment-Lab/
+AutoML_Experiment_Lab/
 ├── app.py
 ├── README.md
 ├── requirements.txt
